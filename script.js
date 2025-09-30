@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (dateEl) dateEl.textContent = today.toLocaleDateString('es-ES', options);
 
     const audioControl = document.getElementById('audioControl');
-    const audioPlayer = new Audio('https://bcodestorague.anteroteobaldob.workers.dev/share/anteroteobaldob_gmail_com/AUDIO/Buenos%20dias.mp3');
+    const audioPlayer = new Audio(' https://github.com/Gon-p/Lov/raw/refs/heads/main/Kapo%20-%20Aloh%20Aloh%20(Letra_Lyrics).m4a ');
     audioPlayer.loop = true;
     audioPlayer.volume = 0.4;
 
